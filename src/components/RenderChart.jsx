@@ -5,7 +5,7 @@ import {
 } from 'recharts';
 
 const RenderChart = ({data}) => {
- 
+
   return (
     <div className='wrappChart'>
       <AreaChart
