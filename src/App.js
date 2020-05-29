@@ -154,7 +154,7 @@ function App() {
 
   return (
     <div className="container" >
-      <h1> Top 10 Largest Countries by population(2020) </h1>
+      <h1> Top 10 Largest Countries by population (2020) </h1>
       <div>
         <h3>No.</h3>
         <h3>Country</h3>
