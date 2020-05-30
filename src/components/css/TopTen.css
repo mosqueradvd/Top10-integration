@@ -1,0 +1,9 @@
+.country__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.country__container img {
+  width: 30px;
+  height: 15px;
+}
