@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
+import "../src/css/styles.scss";
 import TopTen from "./components/TopTen";
 
 // import getData from './utils/getData';

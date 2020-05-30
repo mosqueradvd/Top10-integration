@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/TopTen.css";
+import "../css/styles.scss";
 
 const TopTen = ({ countries = [] }) => {
   return (

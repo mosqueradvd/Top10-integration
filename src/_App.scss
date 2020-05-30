@@ -1,0 +1,18 @@
+.contries {
+  width: 500px;
+  margin: 0 auto;
+  background: aliceblue;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 8px 8px 8px 8px;
+
+  &__title {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 20px 10px;
+  }
+  h3 {
+    display: flex;
+    justify-content: center;
+    color: $color-primario;
+  }
+}
